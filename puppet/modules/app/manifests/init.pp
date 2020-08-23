@@ -8,6 +8,6 @@ class app {
   }
   rvm::install {
     #for user
-    'edward' : ;  
+    'brayan' : ;  
   }
 }

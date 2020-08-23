@@ -1,6 +1,6 @@
 class users {
 
-user { "edward":
+user { "brayan":
 	ensure => "present",
 	shell => "/bin/bash",
 	managehome => true,
